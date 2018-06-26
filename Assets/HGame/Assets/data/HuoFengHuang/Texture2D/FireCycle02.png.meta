@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: ec65aee86ff221a4ab8b3d0a261d57cc
+timeCreated: 1528768743
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FireCycle02_0
+    21300002: FireCycle02_1
+    21300004: FireCycle02_2
+    21300006: FireCycle02_3
+    21300008: FireCycle02_4
+    21300010: FireCycle02_5
+    21300012: FireCycle02_6
+    21300014: FireCycle02_7
+    21300016: FireCycle02_8
+    21300018: FireCycle02_9
+    21300020: FireCycle02_10
+    21300022: FireCycle02_11
+    21300024: FireCycle02_12
+    21300026: FireCycle02_13
+    21300028: FireCycle02_14
+    21300030: FireCycle02_15
+    21300032: FireCycle02_16
+    21300034: FireCycle02_17
+    21300036: FireCycle02_18
+    21300038: FireCycle02_19
+    21300040: FireCycle02_20
+    21300042: FireCycle02_21
+    21300044: FireCycle02_22
+    21300046: FireCycle02_23
+    21300048: FireCycle02_24
+    21300050: FireCycle02_25
+    21300052: FireCycle02_26
+    21300054: FireCycle02_27
+    21300056: FireCycle02_28
+    21300058: FireCycle02_29
+    21300060: FireCycle02_30
+    21300062: FireCycle02_31
+    21300064: FireCycle02_32
+    21300066: FireCycle02_33
+    21300068: FireCycle02_34
+    21300070: FireCycle02_35
+    21300072: FireCycle02_36
+    21300074: FireCycle02_37
+    21300076: FireCycle02_38
+    21300078: FireCycle02_39
+    21300080: FireCycle02_40
+    21300082: FireCycle02_41
+    21300084: FireCycle02_42
+    21300086: FireCycle02_43
+    21300088: FireCycle02_44
+    21300090: FireCycle02_45
+    21300092: FireCycle02_46
+    21300094: FireCycle02_47
+    21300096: FireCycle02_48
+    21300098: FireCycle02_49
+    21300100: FireCycle02_50
+    21300102: FireCycle02_51
+    21300104: FireCycle02_52
+    21300106: FireCycle02_53
+    21300108: FireCycle02_54
+    21300110: FireCycle02_55
+    21300112: FireCycle02_56
+    21300114: FireCycle02_57
+    21300116: FireCycle02_58
+    21300118: FireCycle02_59
+    21300120: FireCycle02_60
+    21300122: FireCycle02_61
+    21300124: FireCycle02_62
+    21300126: FireCycle02_63
+    21300128: FireCycle02_64
+    21300130: FireCycle02_65
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireCycle02_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 908
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 904
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 904
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 904
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 904
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 904
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 904
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 904
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 776
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 776
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 776
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 776
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 776
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 776
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_14
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 776
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_15
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 776
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 648
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 648
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 648
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 648
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_20
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 648
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 648
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_22
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 648
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_23
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 648
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 520
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 520
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 520
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 520
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 520
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 520
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_30
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 520
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_31
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 520
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 392
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 392
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 392
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 392
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_36
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 392
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 392
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_38
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 392
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_39
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 392
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 264
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 264
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 264
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 264
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_45
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 264
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_46
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 264
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_47
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 264
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 136
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 136
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_51
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 136
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_52
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 136
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_53
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 136
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_54
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 136
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_55
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 136
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_56
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 191
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_59
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_60
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 85
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_62
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 8
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_63
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 8
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_64
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 8
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FireCycle02_65
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 8
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

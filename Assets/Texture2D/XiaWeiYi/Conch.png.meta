@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 6377e86455a617642a2356ad9b778a99
+timeCreated: 1528769557
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "ServerImages.Images.bgs \u526F\u672C_0"
+    21300002: "ServerImages.Images.bgs \u526F\u672C_1"
+    21300004: "ServerImages.Images.bgs \u526F\u672C_8"
+    21300006: "ServerImages.Images.bgs \u526F\u672C_3"
+    21300008: "ServerImages.Images.bgs \u526F\u672C_4"
+    21300010: "ServerImages.Images.bgs \u526F\u672C_5"
+    21300012: "ServerImages.Images.bgs \u526F\u672C_6"
+    21300014: "ServerImages.Images.bgs \u526F\u672C_7"
+    21300016: "ServerImages.Images.bgs \u526F\u672C_2"
+    21300018: "ServerImages.Images.bgs \u526F\u672C_9"
+    21300020: "ServerImages.Images.bgs \u526F\u672C_10"
+    21300022: "ServerImages.Images.bgs \u526F\u672C_11"
+    21300024: "ServerImages.Images.bgs \u526F\u672C_12"
+    21300026: "ServerImages.Images.bgs \u526F\u672C_13"
+    21300028: "ServerImages.Images.bgs \u526F\u672C_14"
+    21300030: "ServerImages.Images.bgs \u526F\u672C_15"
+    21300032: "ServerImages.Images.bgs \u526F\u672C_16"
+    21300034: "ServerImages.Images.bgs \u526F\u672C_17"
+    21300036: "ServerImages.Images.bgs \u526F\u672C_18"
+    21300038: "ServerImages.Images.bgs \u526F\u672C_19"
+    21300040: "ServerImages.Images.bgs \u526F\u672C_20"
+    21300042: "ServerImages.Images.bgs \u526F\u672C_21"
+    21300044: "ServerImages.Images.bgs \u526F\u672C_22"
+    21300046: "ServerImages.Images.bgs \u526F\u672C_23"
+    21300048: "ServerImages.Images.bgs \u526F\u672C_24"
+    21300050: "ServerImages.Images.bgs \u526F\u672C_25"
+    21300052: "ServerImages.Images.bgs \u526F\u672C_26"
+    21300054: "ServerImages.Images.bgs \u526F\u672C_27"
+    21300056: "ServerImages.Images.bgs \u526F\u672C_28"
+    21300058: "ServerImages.Images.bgs \u526F\u672C_29"
+    21300060: "ServerImages.Images.bgs \u526F\u672C_30"
+    21300062: "ServerImages.Images.bgs \u526F\u672C_31"
+    21300064: "ServerImages.Images.bgs \u526F\u672C_32"
+    21300066: "ServerImages.Images.bgs \u526F\u672C_33"
+    21300068: "ServerImages.Images.bgs \u526F\u672C_34"
+    21300070: "ServerImages.Images.bgs \u526F\u672C_35"
+    21300072: "ServerImages.Images.bgs \u526F\u672C_36"
+    21300074: "ServerImages.Images.bgs \u526F\u672C_37"
+    21300076: "ServerImages.Images.bgs \u526F\u672C_38"
+    21300078: "ServerImages.Images.bgs \u526F\u672C_39"
+    21300080: "ServerImages.Images.bgs \u526F\u672C_40"
+    21300082: "ServerImages.Images.bgs \u526F\u672C_41"
+    21300084: "ServerImages.Images.bgs \u526F\u672C_42"
+    21300086: "ServerImages.Images.bgs \u526F\u672C_43"
+    21300088: "ServerImages.Images.bgs \u526F\u672C_44"
+    21300090: "ServerImages.Images.bgs \u526F\u672C_45"
+    21300092: "ServerImages.Images.bgs \u526F\u672C_46"
+    21300094: "ServerImages.Images.bgs \u526F\u672C_47"
+    21300096: "ServerImages.Images.bgs \u526F\u672C_48"
+    21300098: "ServerImages.Images.bgs \u526F\u672C_49"
+    21300100: "ServerImages.Images.bgs \u526F\u672C_50"
+    21300102: "ServerImages.Images.bgs \u526F\u672C_51"
+    21300104: "ServerImages.Images.bgs \u526F\u672C_52"
+    21300106: "ServerImages.Images.bgs \u526F\u672C_53"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_2"
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 0
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_8"
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 0
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_24"
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 0
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_25"
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 0
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_26"
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_27"
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 0
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_28"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 0
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_29"
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_30"
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 172
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_31"
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 172
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_32"
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 172
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_33"
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 172
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_34"
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 172
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_35"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 172
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_36"
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 172
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_37"
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 172
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_38"
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 345
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_39"
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 345
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_40"
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 345
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_41"
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 345
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_42"
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 345
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_43"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 345
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_44"
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 345
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_45"
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 345
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_46"
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 518
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_47"
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 518
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_48"
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 518
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_49"
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 518
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_50"
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 518
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_51"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 518
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_52"
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 518
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "ServerImages.Images.bgs \u526F\u672C_53"
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 518
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

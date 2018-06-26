@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 4dadb6cd93423e9468bb52b4dc8edead
+timeCreated: 1521524323
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_0
+    21300002: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_2
+    21300004: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_3
+    21300006: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_4
+    21300008: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_5
+    21300010: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_9
+    21300012: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_12
+    21300014: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_13
+    21300016: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_14
+    21300018: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_15
+    21300020: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_16
+    21300022: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_18
+    21300024: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_19
+    21300026: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_22
+    21300028: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_23
+    21300030: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_24
+    21300032: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_25
+    21300034: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_26
+    21300036: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_27
+    21300038: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_28
+    21300040: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_29
+    21300042: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_30
+    21300044: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_31
+    21300046: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_32
+    21300048: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_33
+    21300050: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_34
+    21300052: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_36
+    21300054: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_37
+    21300056: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_38
+    21300058: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_39
+    21300060: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_40
+    21300062: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_1
+    21300064: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_6
+    21300066: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_7
+    21300068: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_8
+    21300070: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_10
+    21300072: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_11
+    21300074: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_17
+    21300076: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_21
+    21300078: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1636
+        width: 300
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1640
+        width: 311
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1640
+        width: 296
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 300
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1408
+        width: 296
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_7
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1408
+        width: 300
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1156
+        width: 308
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1180
+        width: 296
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 924
+        width: 316
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 296
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 948
+        width: 296
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 696
+        width: 312
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 712
+        width: 300
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 692
+        width: 300
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 316
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 476
+        width: 300
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 464
+        width: 308
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_25
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 468
+        width: 304
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 300
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 240
+        width: 312
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 240
+        width: 300
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_30
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 236
+        width: 304
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 308
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 300
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 304
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_35
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 304
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobbyv2 (Group 0)-2048x2048-fmt4_36
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 0
+        width: 304
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

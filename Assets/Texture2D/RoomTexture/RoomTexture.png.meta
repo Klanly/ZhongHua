@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: a4be4c6d05f3c7c4db41b48d53172422
+timeCreated: 1526291244
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RoomTexture_0
+    21300002: RoomTexture_1
+    21300004: RoomTexture_2
+    21300006: RoomTexture_3
+    21300008: RoomTexture_4
+    21300010: RoomTexture_5
+    21300012: RoomTexture_6
+    21300014: RoomTexture_7
+    21300016: RoomTexture_8
+    21300018: RoomTexture_9
+    21300020: RoomTexture_10
+    21300022: RoomTexture_11
+    21300024: RoomTexture_12
+    21300026: RoomTexture_14
+    21300028: RoomTexture_16
+    21300030: RoomTexture_18
+    21300032: RoomTexture_19
+    21300034: RoomTexture_20
+    21300036: RoomTexture_24
+    21300038: RoomTexture_25
+    21300040: RoomTexture_26
+    21300042: RoomTexture_27
+    21300044: RoomTexture_28
+    21300046: RoomTexture_29
+    21300048: RoomTexture_30
+    21300050: RoomTexture_32
+    21300052: RoomTexture_34
+    21300054: RoomTexture_36
+    21300056: RoomTexture_38
+    21300058: RoomTexture_40
+    21300060: RoomTexture_31
+    21300062: RoomTexture_33
+    21300064: RoomTexture_35
+    21300066: RoomTexture_37
+    21300068: RoomTexture_13
+    21300070: RoomTexture_15
+    21300072: RoomTexture_17
+    21300074: RoomTexture_21
+    21300076: RoomTexture_22
+    21300078: RoomTexture_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoomTexture_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2329
+        width: 227
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2327
+        width: 228
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_2
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2327
+        width: 229
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_3
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2329
+        width: 229
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_4
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2329
+        width: 228
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_5
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 2329
+        width: 229
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1890
+        width: 227
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_7
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1890
+        width: 228
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_8
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1890
+        width: 229
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_9
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1892
+        width: 326
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_10
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1892
+        width: 327
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_11
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1892
+        width: 325
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1410
+        width: 227
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_14
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1410
+        width: 229
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_16
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1410
+        width: 228
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_18
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1433
+        width: 218
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_19
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1433
+        width: 220
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_20
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1433
+        width: 220
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 984
+        width: 229
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_25
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 984
+        width: 229
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_26
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 984
+        width: 228
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 530
+        width: 228
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_31
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 530
+        width: 229
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_32
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 533
+        width: 228
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 77
+        width: 229
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 77
+        width: 228
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_35
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 77
+        width: 229
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_13
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 985
+        width: 221
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_15
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 985
+        width: 221
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_17
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 985
+        width: 221
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_21
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 533
+        width: 236
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_22
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 533
+        width: 236
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomTexture_23
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 533
+        width: 236
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

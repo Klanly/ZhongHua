@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 7698a49629681f7458a21240c69e6072
+timeCreated: 1509171988
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_0
+    21300002: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_1
+    21300004: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_2
+    21300006: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_3
+    21300008: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_5
+    21300010: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_8
+    21300012: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_11
+    21300014: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_13
+    21300016: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_15
+    21300018: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_18
+    21300020: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_21
+    21300022: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_24
+    21300024: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_27
+    21300026: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_29
+    21300028: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_30
+    21300030: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_32
+    21300032: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 814
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 817
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 817
+        width: 219
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 131
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 654
+        width: 161
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 162
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 491
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 491
+        width: 129
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 165
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 328
+        width: 159
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 325
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 164
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 165
+        width: 162
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 164
+        width: 131
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-lobby (Group 0)-512x1024-fmt47_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2
+        width: 129
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

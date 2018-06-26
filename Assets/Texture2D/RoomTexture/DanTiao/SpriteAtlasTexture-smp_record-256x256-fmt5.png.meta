@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 61818094203942d459845757d0516ef2
+timeCreated: 1525836466
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-smp_record-256x256-fmt5_0
+    21300002: SpriteAtlasTexture-smp_record-256x256-fmt5_1
+    21300004: SpriteAtlasTexture-smp_record-256x256-fmt5_2
+    21300006: SpriteAtlasTexture-smp_record-256x256-fmt5_3
+    21300008: SpriteAtlasTexture-smp_record-256x256-fmt5_4
+    21300010: SpriteAtlasTexture-smp_record-256x256-fmt5_5
+    21300012: SpriteAtlasTexture-smp_record-256x256-fmt5_6
+    21300014: SpriteAtlasTexture-smp_record-256x256-fmt5_7
+    21300016: SpriteAtlasTexture-smp_record-256x256-fmt5_8
+    21300018: SpriteAtlasTexture-smp_record-256x256-fmt5_9
+    21300020: SpriteAtlasTexture-smp_record-256x256-fmt5_10
+    21300022: SpriteAtlasTexture-smp_record-256x256-fmt5_11
+    21300024: SpriteAtlasTexture-smp_record-256x256-fmt5_12
+    21300026: SpriteAtlasTexture-smp_record-256x256-fmt5_13
+    21300028: SpriteAtlasTexture-smp_record-256x256-fmt5_14
+    21300030: SpriteAtlasTexture-smp_record-256x256-fmt5_15
+    21300032: SpriteAtlasTexture-smp_record-256x256-fmt5_16
+    21300034: SpriteAtlasTexture-smp_record-256x256-fmt5_17
+    21300036: SpriteAtlasTexture-smp_record-256x256-fmt5_18
+    21300038: SpriteAtlasTexture-smp_record-256x256-fmt5_19
+    21300040: SpriteAtlasTexture-smp_record-256x256-fmt5_20
+    21300042: SpriteAtlasTexture-smp_record-256x256-fmt5_21
+    21300044: SpriteAtlasTexture-smp_record-256x256-fmt5_22
+    21300046: SpriteAtlasTexture-smp_record-256x256-fmt5_23
+    21300048: SpriteAtlasTexture-smp_record-256x256-fmt5_24
+    21300050: SpriteAtlasTexture-smp_record-256x256-fmt5_25
+    21300052: SpriteAtlasTexture-smp_record-256x256-fmt5_26
+    21300054: SpriteAtlasTexture-smp_record-256x256-fmt5_27
+    21300056: SpriteAtlasTexture-smp_record-256x256-fmt5_28
+    21300058: SpriteAtlasTexture-smp_record-256x256-fmt5_29
+    21300060: SpriteAtlasTexture-smp_record-256x256-fmt5_30
+    21300062: SpriteAtlasTexture-smp_record-256x256-fmt5_31
+    21300064: SpriteAtlasTexture-smp_record-256x256-fmt5_32
+    21300066: SpriteAtlasTexture-smp_record-256x256-fmt5_33
+    21300068: SpriteAtlasTexture-smp_record-256x256-fmt5_34
+    21300070: SpriteAtlasTexture-smp_record-256x256-fmt5_35
+    21300072: SpriteAtlasTexture-smp_record-256x256-fmt5_36
+    21300074: SpriteAtlasTexture-smp_record-256x256-fmt5_37
+    21300076: SpriteAtlasTexture-smp_record-256x256-fmt5_38
+    21300078: SpriteAtlasTexture-smp_record-256x256-fmt5_39
+    21300080: SpriteAtlasTexture-smp_record-256x256-fmt5_40
+    21300082: SpriteAtlasTexture-smp_record-256x256-fmt5_41
+    21300084: SpriteAtlasTexture-smp_record-256x256-fmt5_42
+    21300086: SpriteAtlasTexture-smp_record-256x256-fmt5_43
+    21300088: SpriteAtlasTexture-smp_record-256x256-fmt5_44
+    21300090: SpriteAtlasTexture-smp_record-256x256-fmt5_45
+    21300092: SpriteAtlasTexture-smp_record-256x256-fmt5_46
+    21300094: SpriteAtlasTexture-smp_record-256x256-fmt5_47
+    21300096: SpriteAtlasTexture-smp_record-256x256-fmt5_48
+    21300098: SpriteAtlasTexture-smp_record-256x256-fmt5_49
+    21300100: SpriteAtlasTexture-smp_record-256x256-fmt5_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 444
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 444
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 444
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 444
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 395
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 395
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 395
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 395
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 395
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 346
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 346
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 346
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 346
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 346
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 297
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 297
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 297
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 297
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 297
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 248
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 248
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 248
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_24
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 248
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_25
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 248
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 94
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 196
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 200
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 199
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 149
+        width: 97
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 151
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 151
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 100
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 101
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_37
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 102
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 54
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 54
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 54
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 95
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_46
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_49
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 197
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-smp_record-256x256-fmt5_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 148
+        width: 97
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: db01f6c68824b894691a162f3d5c0614
+timeCreated: 1509173728
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-suit-512x512-fmt47_0
+    21300002: SpriteAtlasTexture-suit-512x512-fmt47_1
+    21300004: SpriteAtlasTexture-suit-512x512-fmt47_2
+    21300006: SpriteAtlasTexture-suit-512x512-fmt47_3
+    21300008: SpriteAtlasTexture-suit-512x512-fmt47_4
+    21300010: SpriteAtlasTexture-suit-512x512-fmt47_5
+    21300012: SpriteAtlasTexture-suit-512x512-fmt47_6
+    21300014: SpriteAtlasTexture-suit-512x512-fmt47_7
+    21300016: SpriteAtlasTexture-suit-512x512-fmt47_8
+    21300018: SpriteAtlasTexture-suit-512x512-fmt47_9
+    21300020: SpriteAtlasTexture-suit-512x512-fmt47_10
+    21300022: SpriteAtlasTexture-suit-512x512-fmt47_11
+    21300024: SpriteAtlasTexture-suit-512x512-fmt47_12
+    21300026: SpriteAtlasTexture-suit-512x512-fmt47_13
+    21300028: SpriteAtlasTexture-suit-512x512-fmt47_14
+    21300030: SpriteAtlasTexture-suit-512x512-fmt47_16
+    21300032: SpriteAtlasTexture-suit-512x512-fmt47_17
+    21300034: SpriteAtlasTexture-suit-512x512-fmt47_18
+    21300036: SpriteAtlasTexture-suit-512x512-fmt47_21
+    21300038: SpriteAtlasTexture-suit-512x512-fmt47_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 311
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 350
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 308
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 207
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 266
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 208
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 199
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 104
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 105
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 68
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-suit-512x512-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

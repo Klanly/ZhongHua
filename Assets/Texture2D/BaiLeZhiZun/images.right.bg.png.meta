@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 2037f45058b4b244fa359b80c9b35208
+timeCreated: 1520481418
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: images.right.bg_0
+    21300002: images.right.bg_1
+    21300004: images.right.bg_2
+    21300006: images.right.bg_3
+    21300008: images.right.bg_4
+    21300010: images.right.bg_5
+    21300012: images.right.bg_6
+    21300014: images.right.bg_7
+    21300016: images.right.bg_8
+    21300018: images.right.bg_9
+    21300020: images.right.bg_10
+    21300022: images.right.bg_11
+    21300024: images.right.bg_12
+    21300026: images.right.bg_13
+    21300028: images.right.bg_14
+    21300030: images.right.bg_15
+    21300032: images.right.bg_16
+    21300034: images.right.bg_17
+    21300036: images.right.bg_18
+    21300038: images.right.bg_19
+    21300040: images.right.bg_20
+    21300042: images.right.bg_21
+    21300044: images.right.bg_22
+    21300046: images.right.bg_23
+    21300048: images.right.bg_24
+    21300050: images.right.bg_25
+    21300052: images.right.bg_26
+    21300054: images.right.bg_27
+    21300056: images.right.bg_28
+    21300058: images.right.bg_29
+    21300060: images.right.bg_30
+    21300062: images.right.bg_31
+    21300064: images.right.bg_32
+    21300066: images.right.bg_33
+    21300068: images.right.bg_34
+    21300070: images.right.bg_35
+    21300072: images.right.bg_36
+    21300074: images.right.bg_37
+    21300076: images.right.bg_38
+    21300078: images.right.bg_39
+    21300080: images.right.bg_40
+    21300082: images.right.bg_41
+    21300084: images.right.bg_42
+    21300086: images.right.bg_43
+    21300088: images.right.bg_44
+    21300090: images.right.bg_45
+    21300092: images.right.bg_46
+    21300094: images.right.bg_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: images.right.bg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_1
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1458
+        width: 1144
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1403
+        width: 124
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1384
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1384
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1384
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1384
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1384
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1384
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1384
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1381
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1381
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_12
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1327
+        width: 240
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1315
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1315
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1315
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1315
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1315
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1315
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1315
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_20
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1315
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1315
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_22
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1350
+        width: 116
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1250
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1250
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1250
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1250
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1250
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_28
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1250
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1250
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_30
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1250
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_31
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1250
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_32
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1266
+        width: 350
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 860
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1230
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_35
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1230
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_36
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1230
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_37
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1230
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_38
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1085
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_39
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1085
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_40
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1086
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_41
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1087
+        width: 125
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_42
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1093
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_43
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1087
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_44
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 655
+        width: 36
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 559
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: images.right.bg_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 1449
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

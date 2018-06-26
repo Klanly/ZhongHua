@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 659aec995157dcc42857408395ee06e6
+timeCreated: 1508211291
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BOLUO_gamecard_0
+    21300002: BOLUO_gamecard_1
+    21300004: BOLUO_gamecard_2
+    21300006: BOLUO_gamecard_3
+    21300008: BOLUO_gamecard_4
+    21300010: BOLUO_gamecard_5
+    21300012: BOLUO_gamecard_6
+    21300014: BOLUO_gamecard_7
+    21300016: BOLUO_gamecard_8
+    21300018: BOLUO_gamecard_9
+    21300020: BOLUO_gamecard_10
+    21300022: BOLUO_gamecard_11
+    21300024: BOLUO_gamecard_12
+    21300026: BOLUO_gamecard_13
+    21300028: BOLUO_gamecard_14
+    21300030: BOLUO_gamecard_15
+    21300032: BOLUO_gamecard_16
+    21300034: BOLUO_gamecard_17
+    21300036: BOLUO_gamecard_18
+    21300038: BOLUO_gamecard_19
+    21300040: BOLUO_gamecard_20
+    21300042: BOLUO_gamecard_21
+    21300044: BOLUO_gamecard_22
+    21300046: BOLUO_gamecard_23
+    21300048: BOLUO_gamecard_24
+    21300050: BOLUO_gamecard_25
+    21300052: BOLUO_gamecard_26
+    21300054: BOLUO_gamecard_27
+    21300056: BOLUO_gamecard_28
+    21300058: BOLUO_gamecard_29
+    21300060: BOLUO_gamecard_30
+    21300062: BOLUO_gamecard_31
+    21300064: BOLUO_gamecard_32
+    21300066: BOLUO_gamecard_33
+    21300068: BOLUO_gamecard_34
+    21300070: BOLUO_gamecard_35
+    21300072: BOLUO_gamecard_36
+    21300074: BOLUO_gamecard_37
+    21300076: BOLUO_gamecard_38
+    21300078: BOLUO_gamecard_39
+    21300080: BOLUO_gamecard_40
+    21300082: BOLUO_gamecard_41
+    21300084: BOLUO_gamecard_42
+    21300086: BOLUO_gamecard_43
+    21300088: BOLUO_gamecard_44
+    21300090: BOLUO_gamecard_45
+    21300092: BOLUO_gamecard_46
+    21300094: BOLUO_gamecard_47
+    21300096: BOLUO_gamecard_48
+    21300098: BOLUO_gamecard_49
+    21300100: BOLUO_gamecard_50
+    21300102: BOLUO_gamecard_51
+    21300104: BOLUO_gamecard_52
+    21300106: BOLUO_gamecard_53
+    21300108: BOLUO_gamecard_54
+    21300110: BOLUO_gamecard_55
+    21300112: BOLUO_gamecard_56
+    21300114: BOLUO_gamecard_57
+    21300116: BOLUO_gamecard_58
+    21300118: BOLUO_gamecard_59
+    21300120: BOLUO_gamecard_60
+    21300122: BOLUO_gamecard_61
+    21300124: BOLUO_gamecard_62
+    21300126: BOLUO_gamecard_63
+    21300128: BOLUO_gamecard_64
+    21300130: BOLUO_gamecard_65
+    21300132: BOLUO_gamecard_66
+    21300134: BOLUO_gamecard_67
+    21300136: BOLUO_gamecard_68
+    21300138: BOLUO_gamecard_69
+    21300140: BOLUO_gamecard_70
+    21300142: BOLUO_gamecard_71
+    21300144: BOLUO_gamecard_72
+    21300146: BOLUO_gamecard_73
+    21300148: BOLUO_gamecard_74
+    21300150: BOLUO_gamecard_75
+    21300152: BOLUO_gamecard_76
+    21300154: BOLUO_gamecard_77
+    21300156: BOLUO_gamecard_78
+    21300158: BOLUO_gamecard_79
+    21300160: BOLUO_gamecard_80
+    21300162: BOLUO_gamecard_81
+    21300164: BOLUO_gamecard_82
+    21300166: BOLUO_gamecard_83
+    21300168: BOLUO_gamecard_84
+    21300170: BOLUO_gamecard_85
+    21300172: BOLUO_gamecard_86
+    21300174: BOLUO_gamecard_87
+    21300176: BOLUO_gamecard_88
+    21300178: BOLUO_gamecard_89
+    21300180: BOLUO_gamecard_90
+    21300182: BOLUO_gamecard_91
+    21300184: BOLUO_gamecard_92
+    21300186: BOLUO_gamecard_93
+    21300188: BOLUO_gamecard_94
+    21300190: BOLUO_gamecard_95
+    21300192: BOLUO_gamecard_96
+    21300194: BOLUO_gamecard_97
+    21300196: BOLUO_gamecard_98
+    21300198: BOLUO_gamecard_99
+    21300200: BOLUO_gamecard_100
+    21300202: BOLUO_gamecard_101
+    21300204: BOLUO_gamecard_102
+    21300206: BOLUO_gamecard_103
+    21300208: BOLUO_gamecard_104
+    21300210: BOLUO_gamecard_105
+    21300212: BOLUO_gamecard_106
+    21300214: BOLUO_gamecard_107
+    21300216: BOLUO_gamecard_108
+    21300218: BOLUO_gamecard_109
+    21300220: BOLUO_gamecard_110
+    21300222: BOLUO_gamecard_111
+    21300224: BOLUO_gamecard_112
+    21300226: BOLUO_gamecard_113
+    21300228: BOLUO_gamecard_114
+    21300230: BOLUO_gamecard_115
+    21300232: BOLUO_gamecard_116
+    21300234: BOLUO_gamecard_117
+    21300236: BOLUO_gamecard_118
+    21300238: BOLUO_gamecard_119
+    21300240: BOLUO_gamecard_120
+    21300242: BOLUO_gamecard_121
+    21300244: BOLUO_gamecard_122
+    21300246: BOLUO_gamecard_123
+    21300248: BOLUO_gamecard_124
+    21300250: BOLUO_gamecard_125
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOLUO_gamecard_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 404
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 410
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 441
+        width: 7
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 441
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 440
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_11
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 441
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 312
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 321
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 373
+        width: 7
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 373
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 372
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_28
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_30
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 373
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 306
+        width: 7
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_37
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 305
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_39
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_42
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_43
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_44
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 306
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 268
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 269
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_50
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_51
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 239
+        width: 7
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 239
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_56
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_57
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_58
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_60
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_61
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_62
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 239
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 239
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 225
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 225
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 227
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 116
+        width: 148
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_69
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_70
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_71
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_72
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_73
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 182
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_74
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 182
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_75
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_76
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_77
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_78
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 182
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_79
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_80
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_81
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_82
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 182
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_83
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 123
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_84
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_85
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_86
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_87
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_88
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 132
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_89
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 132
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_90
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_91
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_92
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_93
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_94
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_95
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_96
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_97
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 132
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_98
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_99
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_100
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_101
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_102
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 82
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_103
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 82
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_104
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_105
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_106
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_107
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 82
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_108
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_109
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_110
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_111
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 82
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_112
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_113
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_114
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_115
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_116
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 34
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_117
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_118
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_119
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_120
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_121
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 34
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_122
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_123
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_124
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BOLUO_gamecard_125
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 34
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

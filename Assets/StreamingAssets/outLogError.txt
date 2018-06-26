@@ -1,0 +1,15 @@
+﻿未启用纠正
+UnityEngine.Debug:LogError(Object)
+<cheakwillfixed>c__Iterator0:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:419)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+未启用纠正
+UnityEngine.Debug:LogError(Object)
+<cheakwillfixed>c__Iterator0:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:419)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+未启用纠正
+UnityEngine.Debug:LogError(Object)
+<cheakwillfixed>c__Iterator0:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:419)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+

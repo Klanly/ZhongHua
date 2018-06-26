@@ -1,0 +1,94 @@
+﻿Tiled GPU perf. warning: RenderTexture color surface  (1920x1080) was not cleared/discarded, doing Camera.Render/Drawing
+
+0
+UnityEngine.Debug:LogWarning(Object)
+hallopenroom:clickintoscreen() (at Assets/Scirpts/hall/hallopenroom.cs:222)
+hallopenroom:changeroomlist(UnityWebRequest) (at Assets/Scirpts/hall/hallopenroom.cs:389)
+<wwwtosever>c__Iterator1:MoveNext() (at Assets/Scirpts/WWWforsever/WWWstatic.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+0
+UnityEngine.Debug:LogWarning(Object)
+hallopenroom:clickintoscreen() (at Assets/Scirpts/hall/hallopenroom.cs:222)
+hallopenroom:changeroomlist(UnityWebRequest) (at Assets/Scirpts/hall/hallopenroom.cs:389)
+<wwwtosever>c__Iterator1:MoveNext() (at Assets/Scirpts/WWWforsever/WWWstatic.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+0
+UnityEngine.Debug:LogWarning(Object)
+hallopenroom:clickintoscreen() (at Assets/Scirpts/hall/hallopenroom.cs:222)
+hallopenroom:changeroomlist(UnityWebRequest) (at Assets/Scirpts/hall/hallopenroom.cs:389)
+<wwwtosever>c__Iterator1:MoveNext() (at Assets/Scirpts/WWWforsever/WWWstatic.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+0
+UnityEngine.Debug:LogWarning(Object)
+hallopenroom:clickintoscreen() (at Assets/Scirpts/hall/hallopenroom.cs:222)
+hallopenroom:changeroomlist(UnityWebRequest) (at Assets/Scirpts/hall/hallopenroom.cs:389)
+<wwwtosever>c__Iterator1:MoveNext() (at Assets/Scirpts/WWWforsever/WWWstatic.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+0
+UnityEngine.Debug:LogWarning(Object)
+hallopenroom:clickintoscreen() (at Assets/Scirpts/hall/hallopenroom.cs:222)
+hallopenroom:changeroomlist(UnityWebRequest) (at Assets/Scirpts/hall/hallopenroom.cs:389)
+<wwwtosever>c__Iterator1:MoveNext() (at Assets/Scirpts/WWWforsever/WWWstatic.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+0
+UnityEngine.Debug:LogWarning(Object)
+hallopenroom:clickintoscreen() (at Assets/Scirpts/hall/hallopenroom.cs:222)
+hallopenroom:changeroomlist(UnityWebRequest) (at Assets/Scirpts/hall/hallopenroom.cs:389)
+<wwwtosever>c__Iterator1:MoveNext() (at Assets/Scirpts/WWWforsever/WWWstatic.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+-------高：1080
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:113)
+
+-------宽：1920
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:114)
+
+---------------
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:115)
+
+5
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:116)
+
+185
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:117)
+
+92
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:118)
+
+800
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:119)
+
+---------------
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:121)
+
+8
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:123)
+
+328
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:124)
+
+51
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:125)
+
+450
+UnityEngine.Debug:LogWarning(Object)
+uniweblist:Start() (at Assets/Scirpts/webchange/uniweblist.cs:126)
+
+Tiled GPU perf. warning: RenderTexture color surface  (1920x1080) was not cleared/discarded, doing Camera.Render/Drawing
+

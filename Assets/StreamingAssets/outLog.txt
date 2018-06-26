@@ -1,0 +1,132 @@
+﻿com.BJSCchallenge.game
+UnityEngine.Debug:Log(Object)
+loginuser:Start() (at Assets/Scirpts/loginanddata/loginuser.cs:44)
+
+超时计时开始
+UnityEngine.Debug:Log(Object)
+<isoverload>c__Iterator1:MoveNext() (at Assets/Scirpts/loginanddata/loginuser.cs:243)
+UnityEngine.MonoBehaviour:StartCoroutine(String)
+loginuser:load() (at Assets/Scirpts/loginanddata/loginuser.cs:175)
+UnityEngine.EventSystems.EventSystem:Update()
+
+记住账号密码
+UnityEngine.Debug:Log(Object)
+loginuser:readmenberpassword() (at Assets/Scirpts/loginanddata/loginuser.cs:84)
+loginuser:load() (at Assets/Scirpts/loginanddata/loginuser.cs:176)
+UnityEngine.EventSystems.EventSystem:Update()
+
+给予登录信息
+UnityEngine.Debug:Log(Object)
+loginuser:load() (at Assets/Scirpts/loginanddata/loginuser.cs:177)
+UnityEngine.EventSystems.EventSystem:Update()
+
+{"code":200,"msg":"\u767b\u9646\u6210\u529f","UserInfo":{"user_id":5,"unionuid":"201801061130331218519","username":"gxtd99","quick_credit":"99994059.99","login_ip":"113.109.24.85","telephone":null,"status":1},"UserIP":"113.109.24.85"}
+UnityEngine.Debug:Log(Object)
+loginuser:cheaklogininofo(UnityWebRequest) (at Assets/Scirpts/loginanddata/loginuser.cs:330)
+<wwwtosever>c__Iterator1:MoveNext() (at Assets/Scirpts/WWWforsever/WWWstatic.cs:159)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+大厅屏幕宽1080
+UnityEngine.Debug:Log(Object)
+hallopenroom:Start() (at Assets/Scirpts/hall/hallopenroom.cs:29)
+
+{"code":1,"msg":"\u767b\u9646\u6210\u529f","Userinfo":{"user_id":5,"unionuid":"201801061130331218519","username":"gxtd99","quick_credit":"99994059.99","login_ip":"113.109.24.85","telephone":null,"status":1},"UserIP":"113.109.24.85","UsersCount":77}
+UnityEngine.Debug:Log(Object)
+<getaliveinfo>c__Iterator1:MoveNext() (at Assets/Scirpts/hall/hallopenroom.cs:127)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+{"code":200,"msg":"\u4ee3\u7406\u623f\u95f4\u5217\u8868","RooList":[{"id":2,"exist_number":1,"min_bet":10,"number_limit":8,"red_limit":3000},{"id":3,"exist_number":0,"min_bet":10,"number_limit":8,"red_limit":3000}]}
+UnityEngine.Debug:Log(Object)
+hallopenroom:changeroomlist(UnityWebRequest) (at Assets/Scirpts/hall/hallopenroom.cs:335)
+<wwwtosever>c__Iterator1:MoveNext() (at Assets/Scirpts/WWWforsever/WWWstatic.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+11
+UnityEngine.Debug:Log(Object)
+GameMagert:Start() (at Assets/Scirpts/game/GameMagert.cs:271)
+
+已经更新用户下注数据
+UnityEngine.Debug:Log(Object)
+<polling>c__Iterator2:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:524)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+GameMagert:Start() (at Assets/Scirpts/game/GameMagert.cs:282)
+
+准备状态进行中
+UnityEngine.Debug:Log(Object)
+GameMagert:changeState(playstate) (at Assets/Scirpts/game/GameMagert.cs:970)
+GameMagert:FixedUpdate() (at Assets/Scirpts/game/GameMagert.cs:759)
+
+进入游戏初始化
+UnityEngine.Debug:Log(Object)
+<initpoketlist>c__Iterator12:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:2604)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+更新当局的开奖数据
+UnityEngine.Debug:Log(Object)
+<getdatainitformsever>c__Iterator4:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:626)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+{"code":200,"info":{"id":30,"TotalCount":228,"RemainData":198,"dates":"660148","is_win":0,"last_dates":"660147","last_winnumber":"04,03,09,02,05,01,07,06,10,08","win_number":"","countdown":108,"is_open":0,"EWinTime":0,"WinnerCountdown":138,"MinCountdown":"00:01:48"}}
+UnityEngine.Debug:Log(Object)
+GameMagert:getdatatojson(String) (at Assets/Scirpts/game/GameMagert.cs:847)
+GameMagert:getinfoandsetstate(wwwinfo) (at Assets/Scirpts/game/GameMagert.cs:820)
+GameMagert:FixedUpdate() (at Assets/Scirpts/game/GameMagert.cs:772)
+
+当局开奖不清空
+UnityEngine.Debug:Log(Object)
+GameMagert:betin() (at Assets/Scirpts/game/GameMagert.cs:1052)
+GameMagert:changeState(playstate) (at Assets/Scirpts/game/GameMagert.cs:974)
+GameMagert:FixedUpdate() (at Assets/Scirpts/game/GameMagert.cs:759)
+
+下注状态进行中
+UnityEngine.Debug:Log(Object)
+GameMagert:changeState(playstate) (at Assets/Scirpts/game/GameMagert.cs:975)
+GameMagert:FixedUpdate() (at Assets/Scirpts/game/GameMagert.cs:759)
+
+已经更新开奖数据到开奖结果
+UnityEngine.Debug:Log(Object)
+GameMagert:opendataUpdate(String) (at Assets/Scirpts/game/GameMagert.cs:383)
+<cheakwillfixed>c__Iterator0:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:399)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+开奖数据：{"code":200,"ArrList":[{"id":1705,"dates":"660119","awards":"06,10,03,08,01,05,07,04,02,09","win_text1":"B1","win_text2":"D1"},{"id":1706,"dates":"660120","awards":"06,01,08,09,05,07,04,10,03,02","win_text1":"D1","win_text2":"B1"},{"id":1707,"dates":"660121","awards":"04,09,05,03,06,08,02,10,07,01","win_text1":"B1","win_text2":"B1"},{"id":1708,"dates":"660122","awards":"01,09,05,03,07,08,10,06,02,04","win_text1":"B1","win_text2":"A1"},{"id":1709,"dates":"660123","awards":"02,05,07,09,06,08,03,04,01,10","win_text1":"D1","win_text2":"D1"},{"id":1710,"dates":"660124","awards":"06,02,07,08,10,04,05,09,03,01","win_text1":"D1","win_text2":"B1"},{"id":1711,"dates":"660125","awards":"08,01,02,09,04,05,07,10,03,06","win_text1":"D1","win_text2":"B1"},{"id":1712,"dates":"660126","awards":"07,09,01,10,08,06,04,03,02,05","win_text1":"D1","win_text2":"D1"},{"id":1713,"dates":"660127","awards":"09,07,08,04,10,06,02,05,03,01","win_text1":"A1","win_text2":"B1"},{"id":1714,"dates":"660128","awards":"03,09,07,04,08,01,02,06,10,05","win_text1":"B1","win_text2":"C1"},{"id":1715,"dates":"660129","awards":"09,04,03,01,07,06,02,05,08,10","win_text1":"A1","win_text2":"D1"},{"id":1716,"dates":"660130","awards":"05,04,03,09,01,07,02,06,08,10","win_text1":"D1","win_text2":"D1"},{"id":1717,"dates":"660131","awards":"10,07,01,05,04,02,09,08,06,03","win_text1":"A1","win_text2":"A1"},{"id":1718,"dates":"660132","awards":"05,08,02,01,06,10,07,04,09,03","win_text1":"B1","win_text2":"C1"},{"id":1719,"dates":"660133","awards":"04,06,05,03,10,07,09,02,08,01","win_text1":"B1","win_text2":"A1"},{"id":1720,"dates":"660134","awards":"05,06,04,07,09,08,02,10,01,03","win_text1":"D1","win_text2":"B1"},{"id":1721,"dates":"660135","awards":"04,01,03,06,05,07,08,02,10,09","win_text1":"D1","win_text2":"C1"},{"id":1722,"dates":"660136","awards":"02,05,10,06,01,07,09,04,08,03","win_text1":"C1","win_text2":"A1"},{"id":1723,"dates":"660137","awards":"02,06,09,05,01,04,08,03,10,07","win_text1":"C1","win_text2":"C1"},{"id":1724,"dates":"660138","awards":"09,07,03,05,08,02,06,04,10,01","win_text1":"A1","win_text2":"C1"},{"id":1725,"dates":"660139","awards":"01,08,10,07,06,05,04,03,02,09","win_text1":"C1","win_text2":"D1"},{"id":1726,"dates":"660140","awards":"06,09,05,08,01,07,10,03,02,04","win_text1":"B1","win_text2":"A1"},{"id":1727,"dates":"660141","awards":"03,08,09,02,10,04,05,06,07,01","win_text1":"C1","win_text2":"C1"},{"id":1728,"dates":"660142","awards":"09,05,02,10,08,06,03,07,01,04","win_text1":"D1","win_text2":"B1"},{"id":1729,"dates":"660143","awards":"01,03,08,02,09,06,04,05,07,10","win_text1":"C1","win_text2":"D1"},{"id":1730,"dates":"660144","awards":"06,02,08,09,07,10,03,01,05,04","win_text1":"D1","win_text2":"C1"},{"id":1731,"dates":"660145","awards":"04,01,03,06,08,07,02,05,09,10","win_text1":"D1","win_text2":"D1"},{"id":1732,"dates":"660146","awards":"08,06,01,03,07,09,05,04,10,02","win_text1":"A1","win_text2":"C1"},{"id":1733,"dates":"660147","awards":"04,03,09,02,05,01,07,06,10,08","win_text1":"C1","win_text2":"C1"}]}
+UnityEngine.Debug:Log(Object)
+<cheakwillfixed>c__Iterator0:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:401)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+公告不需要更新
+UnityEngine.Debug:Log(Object)
+<GetAnnouncementInfo>c__Iterator5:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:1314)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+更新当局的开奖数据
+UnityEngine.Debug:Log(Object)
+<getdatainitformsever>c__Iterator4:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:626)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+开奖数据：{"code":200,"ArrList":[{"id":1705,"dates":"660119","awards":"06,10,03,08,01,05,07,04,02,09","win_text1":"B1","win_text2":"D1"},{"id":1706,"dates":"660120","awards":"06,01,08,09,05,07,04,10,03,02","win_text1":"D1","win_text2":"B1"},{"id":1707,"dates":"660121","awards":"04,09,05,03,06,08,02,10,07,01","win_text1":"B1","win_text2":"B1"},{"id":1708,"dates":"660122","awards":"01,09,05,03,07,08,10,06,02,04","win_text1":"B1","win_text2":"A1"},{"id":1709,"dates":"660123","awards":"02,05,07,09,06,08,03,04,01,10","win_text1":"D1","win_text2":"D1"},{"id":1710,"dates":"660124","awards":"06,02,07,08,10,04,05,09,03,01","win_text1":"D1","win_text2":"B1"},{"id":1711,"dates":"660125","awards":"08,01,02,09,04,05,07,10,03,06","win_text1":"D1","win_text2":"B1"},{"id":1712,"dates":"660126","awards":"07,09,01,10,08,06,04,03,02,05","win_text1":"D1","win_text2":"D1"},{"id":1713,"dates":"660127","awards":"09,07,08,04,10,06,02,05,03,01","win_text1":"A1","win_text2":"B1"},{"id":1714,"dates":"660128","awards":"03,09,07,04,08,01,02,06,10,05","win_text1":"B1","win_text2":"C1"},{"id":1715,"dates":"660129","awards":"09,04,03,01,07,06,02,05,08,10","win_text1":"A1","win_text2":"D1"},{"id":1716,"dates":"660130","awards":"05,04,03,09,01,07,02,06,08,10","win_text1":"D1","win_text2":"D1"},{"id":1717,"dates":"660131","awards":"10,07,01,05,04,02,09,08,06,03","win_text1":"A1","win_text2":"A1"},{"id":1718,"dates":"660132","awards":"05,08,02,01,06,10,07,04,09,03","win_text1":"B1","win_text2":"C1"},{"id":1719,"dates":"660133","awards":"04,06,05,03,10,07,09,02,08,01","win_text1":"B1","win_text2":"A1"},{"id":1720,"dates":"660134","awards":"05,06,04,07,09,08,02,10,01,03","win_text1":"D1","win_text2":"B1"},{"id":1721,"dates":"660135","awards":"04,01,03,06,05,07,08,02,10,09","win_text1":"D1","win_text2":"C1"},{"id":1722,"dates":"660136","awards":"02,05,10,06,01,07,09,04,08,03","win_text1":"C1","win_text2":"A1"},{"id":1723,"dates":"660137","awards":"02,06,09,05,01,04,08,03,10,07","win_text1":"C1","win_text2":"C1"},{"id":1724,"dates":"660138","awards":"09,07,03,05,08,02,06,04,10,01","win_text1":"A1","win_text2":"C1"},{"id":1725,"dates":"660139","awards":"01,08,10,07,06,05,04,03,02,09","win_text1":"C1","win_text2":"D1"},{"id":1726,"dates":"660140","awards":"06,09,05,08,01,07,10,03,02,04","win_text1":"B1","win_text2":"A1"},{"id":1727,"dates":"660141","awards":"03,08,09,02,10,04,05,06,07,01","win_text1":"C1","win_text2":"C1"},{"id":1728,"dates":"660142","awards":"09,05,02,10,08,06,03,07,01,04","win_text1":"D1","win_text2":"B1"},{"id":1729,"dates":"660143","awards":"01,03,08,02,09,06,04,05,07,10","win_text1":"C1","win_text2":"D1"},{"id":1730,"dates":"660144","awards":"06,02,08,09,07,10,03,01,05,04","win_text1":"D1","win_text2":"C1"},{"id":1731,"dates":"660145","awards":"04,01,03,06,08,07,02,05,09,10","win_text1":"D1","win_text2":"D1"},{"id":1732,"dates":"660146","awards":"08,06,01,03,07,09,05,04,10,02","win_text1":"A1","win_text2":"C1"},{"id":1733,"dates":"660147","awards":"04,03,09,02,05,01,07,06,10,08","win_text1":"C1","win_text2":"C1"}]}
+UnityEngine.Debug:Log(Object)
+<cheakwillfixed>c__Iterator0:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:401)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+公告不需要更新
+UnityEngine.Debug:Log(Object)
+<GetAnnouncementInfo>c__Iterator5:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:1314)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+公告不需要更新
+UnityEngine.Debug:Log(Object)
+<GetAnnouncementInfo>c__Iterator5:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:1314)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+开奖数据：{"code":200,"ArrList":[{"id":1705,"dates":"660119","awards":"06,10,03,08,01,05,07,04,02,09","win_text1":"B1","win_text2":"D1"},{"id":1706,"dates":"660120","awards":"06,01,08,09,05,07,04,10,03,02","win_text1":"D1","win_text2":"B1"},{"id":1707,"dates":"660121","awards":"04,09,05,03,06,08,02,10,07,01","win_text1":"B1","win_text2":"B1"},{"id":1708,"dates":"660122","awards":"01,09,05,03,07,08,10,06,02,04","win_text1":"B1","win_text2":"A1"},{"id":1709,"dates":"660123","awards":"02,05,07,09,06,08,03,04,01,10","win_text1":"D1","win_text2":"D1"},{"id":1710,"dates":"660124","awards":"06,02,07,08,10,04,05,09,03,01","win_text1":"D1","win_text2":"B1"},{"id":1711,"dates":"660125","awards":"08,01,02,09,04,05,07,10,03,06","win_text1":"D1","win_text2":"B1"},{"id":1712,"dates":"660126","awards":"07,09,01,10,08,06,04,03,02,05","win_text1":"D1","win_text2":"D1"},{"id":1713,"dates":"660127","awards":"09,07,08,04,10,06,02,05,03,01","win_text1":"A1","win_text2":"B1"},{"id":1714,"dates":"660128","awards":"03,09,07,04,08,01,02,06,10,05","win_text1":"B1","win_text2":"C1"},{"id":1715,"dates":"660129","awards":"09,04,03,01,07,06,02,05,08,10","win_text1":"A1","win_text2":"D1"},{"id":1716,"dates":"660130","awards":"05,04,03,09,01,07,02,06,08,10","win_text1":"D1","win_text2":"D1"},{"id":1717,"dates":"660131","awards":"10,07,01,05,04,02,09,08,06,03","win_text1":"A1","win_text2":"A1"},{"id":1718,"dates":"660132","awards":"05,08,02,01,06,10,07,04,09,03","win_text1":"B1","win_text2":"C1"},{"id":1719,"dates":"660133","awards":"04,06,05,03,10,07,09,02,08,01","win_text1":"B1","win_text2":"A1"},{"id":1720,"dates":"660134","awards":"05,06,04,07,09,08,02,10,01,03","win_text1":"D1","win_text2":"B1"},{"id":1721,"dates":"660135","awards":"04,01,03,06,05,07,08,02,10,09","win_text1":"D1","win_text2":"C1"},{"id":1722,"dates":"660136","awards":"02,05,10,06,01,07,09,04,08,03","win_text1":"C1","win_text2":"A1"},{"id":1723,"dates":"660137","awards":"02,06,09,05,01,04,08,03,10,07","win_text1":"C1","win_text2":"C1"},{"id":1724,"dates":"660138","awards":"09,07,03,05,08,02,06,04,10,01","win_text1":"A1","win_text2":"C1"},{"id":1725,"dates":"660139","awards":"01,08,10,07,06,05,04,03,02,09","win_text1":"C1","win_text2":"D1"},{"id":1726,"dates":"660140","awards":"06,09,05,08,01,07,10,03,02,04","win_text1":"B1","win_text2":"A1"},{"id":1727,"dates":"660141","awards":"03,08,09,02,10,04,05,06,07,01","win_text1":"C1","win_text2":"C1"},{"id":1728,"dates":"660142","awards":"09,05,02,10,08,06,03,07,01,04","win_text1":"D1","win_text2":"B1"},{"id":1729,"dates":"660143","awards":"01,03,08,02,09,06,04,05,07,10","win_text1":"C1","win_text2":"D1"},{"id":1730,"dates":"660144","awards":"06,02,08,09,07,10,03,01,05,04","win_text1":"D1","win_text2":"C1"},{"id":1731,"dates":"660145","awards":"04,01,03,06,08,07,02,05,09,10","win_text1":"D1","win_text2":"D1"},{"id":1732,"dates":"660146","awards":"08,06,01,03,07,09,05,04,10,02","win_text1":"A1","win_text2":"C1"},{"id":1733,"dates":"660147","awards":"04,03,09,02,05,01,07,06,10,08","win_text1":"C1","win_text2":"C1"}]}
+UnityEngine.Debug:Log(Object)
+<cheakwillfixed>c__Iterator0:MoveNext() (at Assets/Scirpts/game/GameMagert.cs:401)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+OnApplicationFocus  False  False
+UnityEngine.Debug:Log(Object)
+GameMagert:OnApplicationFocus() (at Assets/Scirpts/game/GameMagert.cs:3064)
+UnityEditorInternal.InternalEditorUtility:OnGameViewFocus(Boolean)
+UnityEditor.HostView:OnLostFocus()
+

@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: f735ac713d2eef4448db607a8be57622
+timeCreated: 1524727325
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'Player #2020_68'
+    21300002: 'Player #2020_0'
+    21300004: 'Player #2020_1'
+    21300006: 'Player #2020_2'
+    21300008: 'Player #2020_3'
+    21300010: 'Player #2020_4'
+    21300012: 'Player #2020_5'
+    21300014: 'Player #2020_6'
+    21300016: 'Player #2020_7'
+    21300018: 'Player #2020_8'
+    21300020: 'Player #2020_9'
+    21300022: 'Player #2020_10'
+    21300024: 'Player #2020_11'
+    21300026: 'Player #2020_12'
+    21300028: 'Player #2020_13'
+    21300030: 'Player #2020_14'
+    21300032: 'Player #2020_15'
+    21300034: 'Player #2020_16'
+    21300036: 'Player #2020_17'
+    21300038: 'Player #2020_18'
+    21300040: 'Player #2020_19'
+    21300042: 'Player #2020_20'
+    21300044: 'Player #2020_21'
+    21300046: 'Player #2020_22'
+    21300048: 'Player #2020_23'
+    21300050: 'Player #2020_24'
+    21300052: 'Player #2020_25'
+    21300054: 'Player #2020_26'
+    21300056: 'Player #2020_27'
+    21300058: 'Player #2020_28'
+    21300060: 'Player #2020_29'
+    21300062: 'Player #2020_30'
+    21300064: 'Player #2020_31'
+    21300066: 'Player #2020_32'
+    21300068: 'Player #2020_33'
+    21300070: 'Player #2020_34'
+    21300072: 'Player #2020_35'
+    21300074: 'Player #2020_36'
+    21300076: 'Player #2020_37'
+    21300078: 'Player #2020_38'
+    21300080: 'Player #2020_39'
+    21300082: 'Player #2020_40'
+    21300084: 'Player #2020_41'
+    21300086: 'Player #2020_42'
+    21300088: 'Player #2020_43'
+    21300090: 'Player #2020_44'
+    21300092: 'Player #2020_45'
+    21300094: 'Player #2020_46'
+    21300096: 'Player #2020_47'
+    21300098: 'Player #2020_48'
+    21300100: 'Player #2020_49'
+    21300102: 'Player #2020_50'
+    21300104: 'Player #2020_51'
+    21300106: 'Player #2020_52'
+    21300108: 'Player #2020_53'
+    21300110: 'Player #2020_54'
+    21300112: 'Player #2020_55'
+    21300114: 'Player #2020_56'
+    21300116: 'Player #2020_57'
+    21300118: 'Player #2020_58'
+    21300120: 'Player #2020_59'
+    21300122: 'Player #2020_60'
+    21300124: 'Player #2020_61'
+    21300126: 'Player #2020_62'
+    21300128: 'Player #2020_63'
+    21300130: 'Player #2020_64'
+    21300132: 'Player #2020_65'
+    21300134: 'Player #2020_66'
+    21300136: 'Player #2020_67'
+    21300138: 'Player #2020_69'
+    21300140: 'Player #2020_70'
+    21300142: 'Player #2020_71'
+    21300144: 'Player #2020_72'
+    21300146: 'Player #2020_73'
+    21300148: 'Player #2020_74'
+    21300150: 'Player #2020_75'
+    21300152: 'Player #2020_76'
+    21300154: 'Player #2020_77'
+    21300156: 'Player #2020_78'
+    21300158: 'Player #2020_79'
+    21300160: 'Player #2020_80'
+    21300162: 'Player #2020_81'
+    21300164: 'Player #2020_82'
+    21300166: 'Player #2020_83'
+    21300168: 'Player #2020_84'
+    21300170: 'Player #2020_85'
+    21300172: 'Player #2020_86'
+    21300174: 'Player #2020_87'
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 'Player #2020_1'
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 766
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_2'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 986
+        width: 80
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_3'
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 988
+        width: 102
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_4'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 962
+        width: 172
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_5'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 136
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_6'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 196
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_7'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 882
+        width: 278
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_8'
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 906
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_0'
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 882
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_9'
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 883
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_10'
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 881
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_11'
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 856
+        width: 299
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_12'
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 832
+        width: 340
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_13'
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 806
+        width: 347
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_14'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 138
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_15'
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 796
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_16'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 204
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_17'
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 749
+        width: 89
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_18'
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 731
+        width: 140
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_19'
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 732
+        width: 140
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_20'
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 795
+        width: 349
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_21'
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 770
+        width: 374
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_22'
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 778
+        width: 351
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_23'
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 753
+        width: 360
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_24'
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 707
+        width: 204
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_25'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 668
+        width: 207
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_26'
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 668
+        width: 209
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_27'
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 667
+        width: 205
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_28'
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 669
+        width: 205
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_29'
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 690
+        width: 202
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_30'
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 627
+        width: 203
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_31'
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 644
+        width: 142
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_32'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 331
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_33'
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 627
+        width: 255
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_34'
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 625
+        width: 256
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_35'
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 731
+        width: 219
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 'Player #2020_36'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 1127
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
